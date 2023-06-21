@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Practice2</string>
+    <string name="button1">Список дел</string>
+    <string name="button2">анекдот</string>
+    <string name="dialog_settings_vol">диалог1</string>
+    <string name="dialog_settings_sense">диалог2</string>
+    <string name="button3">Добавить запись</string>
+    <string name="button4">Просмотреть записи</string>
+    <string name="button5">удалить запись</string>
+    <string name="s1">Введите новые данные</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="record">Введите заметку</string>
+    <string name="save1">Сохранить</string>
+    <string name="delete1">Удалить</string>
+</resources>
